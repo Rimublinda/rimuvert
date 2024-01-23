@@ -13,9 +13,16 @@ Ao criar uma nova lista, você pode:
    - Fornecer um título para a lista.
    - Adicionar itens à lista, inserindo um valor em cada célula.
 
-### 4. Problemas do projeto que vai ser resolvido
+### 4. Mas como vou fazer o site reconhecer uma lista
 
-   - Para o site reconhecer uma lista tem que ter #. antes do nome
+   simples, caso queira adicionar uma lista de animes se vai ter que colocar #. antes do nome. Exemplo de como sua lista tem que ficar: 
+   ```
+   _Animes assistidos_
+   #.anime 1
+   #.anime 2
+   #.anime 3
+   #.anime 4
+   ``` 
 
 ### 5. Conclusão
 
